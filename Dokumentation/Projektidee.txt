@@ -1,0 +1,6 @@
+Bei meiner Projektidee geht es um ein sehr bekanntes Spiel.
+
+Das Spiel: gegeben ist ein 3x3-Spielfeld bei dem man versuchen muss Zeichen ("O" , "X") in eine Reihe zu bringen.
+Es ist also ein Spiel für zwei Personen, die nacheinander an der Reihe sind. Das spiel ist beendet, wenn einer 3 gleiche Zeichen
+(egal ob waagerecht, senkrecht oder diagonal) in einer Reihe aufstellt oder wenn es zu einem unentschieden kommt,
+bei dem alle Spielfelder belegt sind.
