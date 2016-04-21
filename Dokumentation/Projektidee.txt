@@ -12,4 +12,5 @@ bei dem alle Spielfelder belegt sind.
 Tic-Tac-Toe klingt gut, aber warum sollte man in einem kleinen 3x3 Feld gegeneinander spielen, wenn man auch in einem 5x5Feld könnte.
 
 Man könnte einen Mix aus 4-Gewinnt und Tic-Tac-Toe daraus machen. Das würde auch die Interaktivität und die Zeit eines Spieles erhöhen.
+Die strukt.html-Datei fehlt bei dir noch
 Viel Erfolg
