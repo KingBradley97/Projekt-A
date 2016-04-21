@@ -4,3 +4,12 @@ Das Spiel: gegeben ist ein 3x3-Spielfeld bei dem man versuchen muss Zeichen ("O"
 Es ist also ein Spiel für zwei Personen, die nacheinander an der Reihe sind. Das spiel ist beendet, wenn einer 3 gleiche Zeichen
 (egal ob waagerecht, senkrecht oder diagonal) in einer Reihe aufstellt oder wenn es zu einem unentschieden kommt,
 bei dem alle Spielfelder belegt sind.
+
+
+
+
+==Feedback Jaacii 21.4.16==
+Tic-Tac-Toe klingt gut, aber warum sollte man in einem kleinen 3x3 Feld gegeneinander spielen, wenn man auch in einem 5x5Feld könnte.
+
+Man könnte einen Mix aus 4-Gewinnt und Tic-Tac-Toe daraus machen. Das würde auch die Interaktivität und die Zeit eines Spieles erhöhen.
+Viel Erfolg
