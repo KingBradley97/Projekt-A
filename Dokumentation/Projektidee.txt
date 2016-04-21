@@ -1,7 +1,7 @@
 Bei meiner Projektidee geht es um ein sehr bekanntes Spiel.
 
 Das Spiel: gegeben ist ein 3x3-Spielfeld bei dem man versuchen muss Zeichen ("O" , "X") in eine Reihe zu bringen.
-Es ist also ein Spiel f�r zwei Personen, die nacheinander an der Reihe sind. Das spiel ist beendet, wenn einer 3 gleiche Zeichen
+Es ist also ein Spiel für zwei Personen, die nacheinander an der Reihe sind. Das spiel ist beendet, wenn einer 3 gleiche Zeichen
 (egal ob waagerecht, senkrecht oder diagonal) in einer Reihe aufstellt oder wenn es zu einem unentschieden kommt,
 bei dem alle Spielfelder belegt sind.
 
@@ -9,8 +9,13 @@ bei dem alle Spielfelder belegt sind.
 
 
 ==Feedback Jaacii 21.4.16==
-Tic-Tac-Toe klingt gut, aber warum sollte man in einem kleinen 3x3 Feld gegeneinander spielen, wenn man auch in einem 5x5Feld k�nnte.
+Tic-Tac-Toe klingt gut, aber warum sollte man in einem kleinen 3x3 Feld gegeneinander spielen, wenn man auch in einem 5x5Feld könnte.
 
-Man k�nnte einen Mix aus 4-Gewinnt und Tic-Tac-Toe daraus machen. Das w�rde auch die Interaktivit�t und die Zeit eines Spieles erh�hen.
+Man könnte einen Mix aus 4-Gewinnt und Tic-Tac-Toe daraus machen. Das würde auch die Interaktivität und die Zeit eines Spieles erhöhen.
 Die strukt.html-Datei fehlt bei dir noch
 Viel Erfolg
+
+==Feedback janman22 21.4.16==
+
+witziges kleines Spiel dieses Tic-Tac-Toe aber vielleicht doch etas zu simpel für das Projekt 1. Vor allem wenn man es mit den anderen Spielen vergleicht, die so umgesetzt werden. Man könnte sich ja noch ein paar Spezifikationen einfallen lassen, die das Spiel interessanter machen. (Größeres Spielfeld, Spezialzüge, Glückskarten usw.)
+Viel Erfolg weiterhin!
