@@ -19,3 +19,7 @@ Viel Erfolg
 
 witziges kleines Spiel dieses Tic-Tac-Toe aber vielleicht doch etas zu simpel für das Projekt 1. Vor allem wenn man es mit den anderen Spielen vergleicht, die so umgesetzt werden. Man könnte sich ja noch ein paar Spezifikationen einfallen lassen, die das Spiel interessanter machen. (Größeres Spielfeld, Spezialzüge, Glückskarten usw.)
 Viel Erfolg weiterhin!
+
+==Feedback s-hajir 23.4.16==
+Finde die Idee ganz ok. Dir fehlt noch die strukt.hmtl.
+Gruss
