@@ -1,0 +1,32 @@
+Meine Idee ist das Brettspiel "Khan".
+Spieleranzahl: 2-4 Spieler
+Sinn des Spiels: Sie sind ein General des Großen Khan und versuchen die anderen Generäle(Spieler) zu vertreiben.
+Sie erweitern also das mongolische Reich. Der General(Spieler), der den größten Beitrag zur Erweiterung des mongolischen Reiches leistet und
+anderen Generäle vertreibt.
+
+Spielvorbereitung: - Jeder Spieler erhält Sonderkarten in Abhängigkeit von der Spieleranzahl
+		   - Die Spielkarten werden gemischt. Anschließend erhält jeder Spieler 4 Spielkarten.
+		   - Startspieler wird zufällig ausgewählt. Dieser setzt eine seiner Jurten auf ein beliebiges Feld.
+
+
+
+Spielablauf:Die Spieler sind nacheinander dran. Jeder Spielzug eines Spielers besteht aus 5 Phasen, welche sehr identisch sind.
+In der ersten Phase zieht der Spieler eine Karte. Diese Karte zeigt an, welcher General vertreibt wird. In welche Richtung er vertrieben wird, zeigt die Windrose an und
+der Hintergrund zeigt an, auf welches Feld eines Landes der Spieler seine Jurte setzen muss. 
+
+In der zweiten Phase dürfen 2 Aktioenen ausgeführt werden. Der Spieler kann entweder eine eigene Jurte setzen, einen Herrscher vertreiben oder eien Brücken- oder
+Eroberungsplättchen legen. Es gibt jedoch eine Alternative: Der Spieler kann eine eigene Jurte setzen und 0-4 Handkarten abwerfen.
+
+In der dritten Phase wird, wenn eine Sonderkarte von der vorherigen Runde noch auf dem Spielfeld liegt, diese in die Spielschachtel zurückgelegt.
+
+In der fünften Phase zieht der Spieler so viele Karten bis dieser wieder 4 auf der Hand hat.
+
+
+
+Spielende: - Das Spiel endet, wenn der 5. Herrscher vom Spielplan genommen wurde.
+	   - In der Endphase dürfen die Spieler reihum nur noch Brücken- oder Eroberungsplättchen legen.
+	   - Jeder Spieler zählt seine Punkte zusammen:
+   	   - Werte der Brücken- oder Eroberungsplättchen, auf denen seine Jurten liegen.
+   	   - Abschließend erhalten die Spieler noch 3, 6 oder 10 Bonuspunkte für die drei größten
+   	     zusammenhängenden Gebiete (Hier werden die von den Plättchen verdeckten Feldern addiert).
+	   - Es gewinnt der Spieler mit den meisten Punkten.
