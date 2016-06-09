@@ -1,4 +1,47 @@
+===========================================
+=== Projektidee KingBradley, 2016-05-03 ===
+===========================================
+
+Meine Idee ist das Brettspiel "Khan".
+Spieleranzahl: 2-4 Spieler
+Sinn des Spiels: Sie sind ein General des Großen Khan und versuchen die anderen Generäle(Spieler) zu vertreiben.
+Sie erweitern also das mongolische Reich. 
+Der General(Spieler), der den größten Beitrag zur Erweiterung des mongolischen Reiches leistet und anderen Generäle vertreibt.
+
+Spielvorbereitung: 
+- Jeder Spieler erhält Sonderkarten in Abhängigkeit von der Spieleranzahl
+- Die Spielkarten werden gemischt. Anschließend erhält jeder Spieler 4 Spielkarten.
+- Startspieler wird zufällig ausgewählt. Dieser setzt eine seiner Jurten auf ein beliebiges Feld.
+
+Spielablauf:
+Die Spieler sind nacheinander dran. 
+Jeder Spielzug eines Spielers besteht aus 5 Phasen, welche sehr identisch sind.
+
+In der ersten Phase zieht der Spieler eine Karte. 
+Diese Karte zeigt an, welcher General vertreibt wird. 
+In welche Richtung er vertrieben wird, zeigt die Windrose an und der Hintergrund zeigt an, auf welches Feld eines Landes der Spieler seine Jurte setzen muss. 
+
+In der zweiten Phase dürfen 2 Aktioenen ausgeführt werden:
+- Der Spieler kann entweder eine eigene Jurte setzen, einen Herrscher vertreiben 
+- oder eien Brücken- oder Eroberungsplättchen legen. 
+Es gibt jedoch eine Alternative: 
+- Der Spieler kann eine eigene Jurte setzen und 0-4 Handkarten abwerfen.
+
+In der dritten Phase wird, wenn eine Sonderkarte von der vorherigen Runde noch auf dem Spielfeld liegt, diese in die Spielschachtel zurückgelegt.
+
+In der fünften Phase zieht der Spieler so viele Karten bis dieser wieder 4 auf der Hand hat.
+
+Spielende: 
+- Das Spiel endet, wenn der 5. Herrscher vom Spielplan genommen wurde.
+- In der Endphase dürfen die Spieler reihum nur noch Brücken- oder Eroberungsplättchen legen.
+- Jeder Spieler zählt seine Punkte zusammen:
+- Werte der Brücken- oder Eroberungsplättchen, auf denen seine Jurten liegen.
+- Abschließend erhalten die Spieler noch 3, 6 oder 10 Bonuspunkte für die drei größten zusammenhängenden Gebiete (Hier werden die von den Plättchen verdeckten Feldern addiert).
+- Es gewinnt der Spieler mit den meisten Punkten.
+
+===========================================
 === Projektidee KingBradley, 2016-04-29 ===
+===========================================
 
 Bei meiner Projektidee geht es um ein sehr bekanntes Spiel.
 
@@ -7,23 +50,30 @@ Es ist also ein Spiel für zwei Personen, die nacheinander an der Reihe sind. Da
 (egal ob waagerecht, senkrecht oder diagonal) in einer Reihe aufstellt oder wenn es zu einem unentschieden kommt,
 bei dem alle Spielfelder belegt sind.
 
-==Feedback Jaacii 21.4.16==
+=============================
+== Feedback Jaacii 21.4.16 ==
+=============================
 Tic-Tac-Toe klingt gut, aber warum sollte man in einem kleinen 3x3 Feld gegeneinander spielen, wenn man auch in einem 5x5Feld könnte.
 
 Man könnte einen Mix aus 4-Gewinnt und Tic-Tac-Toe daraus machen. Das würde auch die Interaktivität und die Zeit eines Spieles erhöhen.
 Die strukt.html-Datei fehlt bei dir noch
 Viel Erfolg
-
+=============================
 ==Feedback janman22 21.4.16==
+=============================
 
 witziges kleines Spiel dieses Tic-Tac-Toe aber vielleicht doch etas zu simpel für das Projekt 1. Vor allem wenn man es mit den anderen Spielen vergleicht, die so umgesetzt werden. Man könnte sich ja noch ein paar Spezifikationen einfallen lassen, die das Spiel interessanter machen. (Größeres Spielfeld, Spezialzüge, Glückskarten usw.)
 Viel Erfolg weiterhin!
 
+=============================
 ==Feedback s-hajir 23.4.16==
+=============================
 Finde die Idee ganz ok. Dir fehlt noch die strukt.hmtl.
 Gruss
 
+=============================
 ==Feedback Jennow 27.04.2016===
+=============================
 Du solltest, wie die anderen schon gesagt haben, deine Idee noch überarbeiten und eine strukt.html Datei erstellen. Mehr Feedback kann ich Dir leider noch nicht geben.
 
 ===================================
@@ -38,80 +88,35 @@ Nutzen Sie deshalb bitte folgendes Brettspiel als Vorlage und entwickeln Sie bas
 
 Erst wenn Sie eine entsprechende Beschreibung erstellt haben, machen Sie mit der nächsten Aufgabe weiter. Beachten Sie dabei, dass die erste Aufgabe die Grundlage für die zweite ist. (Und das geht immer so weiter bei allen Folgeaufgaben.)
 
+===============================================================
 === Zweiter Aufgabenblock (identisch für alle Studierenden) ===
+===============================================================
+(gelöscht, da im Lernraum für alle einsehbar)
 
-Sie haben jetzt gezeigt, dass Sie einfache Arbeiten mit einem Git-Repository beherrschen.
-Als Teil der letzten Aufgabe sollten Sie beschreiben, was Ihre Anwendung tun soll, also was für Funktionalitäten Ihre Anwendung bieten soll.
-Wenn Sie hier nichts angegeben haben, dann werde ich Ihnen einen Vorschlag hochladen, mit dem Sie weiterarbeiten können.
-In der Veranstaltung haben Sie außerdem gelernt, was Markup Languages sind.
+===================================
+=== Feedback Alpers, 2016-06-09 ===
+===================================
 
-Die nächste Aufgabe besteht aus den folgenden Teilen:
+(1) Bitte erstellen Sie keine zusätzlichen Dateien für die Projektbeschreibung, sondern ergänzen Sie diese in dieser Datei. Sinn und Zweck von Konventionen besteht darin, dass alle Mitglieder eines Projektteams schnell das finden, was Sie suchen bzw. bearbeiten wollen. Außerdem haben Sie einen essentiellen Grund für die Verwendung von Versionierungssoftware nicht verstanden, wenn Sie unterschiedliche Versionen von Projektteilen als eigenständige Datei speichern: Mit Versionierungssoftware speicheren Sie Zwischenstände eines Projekts, die Sie später dank der Versionierssoftware mit wenig Aufwand erneut einsehen können.
 
-1.) Lesen Sie mein Feedback durch und setzen Sie die beschriebenen Aufgaben um.
+(2) Leider ist Ihre Beschreibung noch deutlich zu nahe am Regelwerk des Brettspiels. Eine Beschreibung sollte in den ersten Zeilen Lust darauf machen, mehr zu erfahren. (Das haben Sie auch getan.)
 
-Für die folgende Aufgabe sollten Sie mindestens eine halbe Stunde investieren. Zwei Stunden wäre aber etwas zu viel des guten.
-Bearbeiten Sie die Aufgaben 2. und 3. bitte innerhalb von 48 Stunden, weil andere Studierende davon abhängen, dass Sie sie beendet haben.
-Bearbeiten Sie die Aufgaben auf jeden Fall in der vorgegebenen Reihenfolge.
-Und bearbeiten Sie eine Aufgabe nicht nachträglich nochmal. (Wenn Sie also z.B. Aufgabe 3. bearbeiten, dann ändern Sie bitte nichts an Aufgabe 1. nachträglich ab. Dafür wird später noch genug Zeit sein.)
+Denken Sie bitte auch daran, dass es nicht um eine 1:1-Umsetzung des Brettspiels selbst geht. Hier denke ich beispielsweise an die Spielerzahl: Es sollte möglich sein, dass ein Spieler das Spiel alleine spielen kann (Stichwort: Computergegner), aber schauen Sie auch, welche Möglichkeiten es gibt, um das Spiel für mehr als 5 Spieler anzupassen.
 
-2.) Bennen Sie die strukturellen Elemente, aus denen Ihre Anwendung bestehen soll.
-Es ist dabei egal, ob es diese Elemente in HTML gibt.
-Es ist auch egal, ob Sie sich schon in HTML eingearbeitet haben.
-Wichtig ist nur, dass Sie die strukturellen Elemente benennen, aus der die Anwendung bestehen soll.
-Speichern Sie diese Aufstellung als HTML-Kommentar in einer Datei mit dem Namen
+Danach sollte die Beschreibung alle für Spieler relevanten Teile des Spiels beinhalten. Hier sind Sie leider auch zu nahe am Brettspiel: Bei einem Computerspiel werden keine Würfel geworfen. Die Projektbeschreibung ist also im Kern eine Inhaltsangabe. Der Unterschied gegenüber dem Deutschunterricht ist der, dass Sie ein Computerprogramm zusammenfassen müssen, das Sie selbst konzipieren sollen und für das einige Vorgaben einzuhalten sind.
 
-strukt.html
+Für die Umsetzung in ein Computerspiel müssen Sie jetzt genau herausarbeiten, was für Interaktionsmöglichkeiten es geben soll. Die sind wiederum die Basis für die interaktiven unter den strukturellen Elementen. Und machen Sie hier bitte nicht den Fehler, die Elemente des Brettspiels als Elemente des Computerspiels umzusetzen.
 
-, die Sie in Ihrem Repository abspeichern. Wichtig: Die Datei soll nicht im Unterverzeichnis Dokumentation des Repositories gespeichert werden, weil sie die Basis für das erste HTML-Dokument werden wird.
+Hier noch ein Absatz dazu, wofür der Begriff Interaktivität in diesem Projekt steht, weil der Begriff nicht eindeutig ist: Die Schaltflächen, die NutzerInnen verwenden können sind nur die bedienbaren Elemente eines Computerprogramms. Interaktion ist wesentlich mehr als das. Denken Sie beispielsweise daran, wie eine Pokerrunde gespielt wird. Dabei spielt es nämlich eine Rolle, welche Karten abgeworfen wurden. Die Spieler (und bei einem Computerprogramm der Computer) analysieren kontinuierlich das Verhalten der anderen Spieler und ändern Ihren Spielstil in Abhängigkeit davon. Und genau das müssen Sie auch als Teil Ihres Projekts ausarbeiten und in die Projektbeschreibung integrieren.
 
-Wenn Sie noch unsicher sind: Strukturelle Elemente können alles mögliche sein:
-- Tabellen
-- Listen
-- Schaltflächen
-- Textfelder
-- Bildbereiche
-- Hintergrundmusik
-- Absätze
-- ...
+Hier die zweite Schwierigkeit: Sie müssen sich überlegen, was Sie alles streichen und was sie alles ergänzen müssen, damit es ein eigenständiges webbasiertes Computerspiel wird.
 
-In anderen Worten: Ein strukturelles Element ist etwas, das ein abgegrenzter Teil der Anwendung ist.
-Notieren Sie kurz, welche Funktion jedes der von Ihnen genannten Elemente haben soll.
+Sie müssen bei der Projektkonzeption also insbesondere an Dinge denken, die in einem Brettspiel nicht vorkommen. Ein Log-In oder eine Highscore-Liste wären nur zwei von vielen Möglichkeiten, die hinzukommen. Die direkte Unterhaltung zwischen Spielern muss dagegen im Bedarfsfall anders gelöst werden. Und Aufgaben wie das Aufnehmen einer Karte, das verschieben eines Elements auf dem Spielbrett fallen häufig bei Computerspielen unter den Tisch.
 
-Hier einige Beispiele:
-- Schaltfläche (Nutzer können per Klick bestätigen, dass eine Eingabe abgeschickt werden soll.)
-- Textfeld für Namen (Nutzer können Ihren Nachnamen eintragen.)
-- Log-In-Maske (Bereich, in dem Nutzer sich einloggen können.)
-- - Teile der Log-In-Maske:
-- - Textfeld für Username
-- - Textfeld, das die Eingabe nicht anzeigt, fürs Passwort
-- Tabelle, 7 x 5 Felder (Jedes Feld soll ein Bild anzeigen, das ein Feld des Spielbretts ist. Wenn Nutzer ein Feld anwählen, soll ein Menü erscheinen.)
-- - Menü für jedes Feld der Tabelle mit Texteinträgen (Eintrag für "Gebäude abreißen", "Feld kaufen")
-- Hintergrundbild (Hier sollen einzelne Bilder als Diashow eingeblendet werden.)
-- Werbebanner
-- Schaltfläche für die Maskierung von NSFW (NSFW = Not safe for work)(NutzerInnen können über diese Schaltfläche eine andere Anwendung in der Vordergrund einblenden lassen, damit der Chef nicht sieht, dass sie gerade spielen.)
-
-3.) Schauen Sie jetzt in der Liste der Repositories (nicht in der Tabelle der Accounts) nach, welche zehn Repositories vor und nach Ihrem Repository aufgeführt sind und geben Sie den Besitzern dieser Repositories Zugriffsrechte auf Ihr Repository.
-
-Bsp.: Sie haben das Repository BerndStromberg. Dann folgen die zehn Repositories der Nutzer BlackWolf63, Cantinaband, CaptainWeasle, ColePfeiffer, CurvLietzau,
-DangerDulf, dnbdel, Domsche, Eldinox und Eupuco und vor Ihnen gibt es die fünf Repositories der Nutzer 2238867, amelie-beh, Anger21, anita1997 und Asphalon. all diesen Accounts geben Sie jetzt Zugriffsrechte auf Ihr Repository, so wie Sie das schon für mich getan haben. Wenn Sie, wie BerndStrommberg zu weit am Anfang der Liste stehen (hier gibt es ja nur fünf andere Accounts bis zum Anfang der Liste), dann geben Sie zusätzlich noch den Besitzern der letzten fünf Repositories Zugriffsrechte. Es sollten insgesamt 20 Accounts Zugriffsrecht haben.
-
-Für die nächsten zwei Aufgaben sollten Sie pro Repository zwischen zehn Minuten und einer Stunde aufwenden. Weniger ist zu wenig und mehr ist zu viel.
-Beachten Sie dabei bitte, dass Sie hier letzten Endes Kritik an der Arbeit eines/einer anderen üben und das einige von Ihnen noch nie programmiert haben. Arbeiten Sie deshalb bitte daran, alles, was Sie ergänzen so neutral und höflich wie möglich zu formulieren, denn Unwissenheit und mangelndes Verständnis fürs Programmieren sind eben nicht das selbe wie Dummheit oder Faulheit.
-
-Bitte erledigen Sie diese Aufgaben innerhalb der nächsten sieben Tage.
-
-4.) Als nächstes greifen Sie auf die nach Ihrem Repository nachfolgenden fünf Repositories zu und bearbeiten hier die folgende Aufgabe. (Hier hängen Sie also davon ab, dass andere Kommilitonen Aufgabe 3. erledigt haben.) 
-
-Lesen Sie sich die Projektidee durch und machen Sie sich ähnlich wie bei 2. einfache Stichpunkte über strukturelle Elemente, die Sie bei dieser Projektidee sinnvoll finden. (Hier erstmal nur Stichpunkte, Details arbeiten Sie unter 5. aus.)
-
-5.) Öffnen Sie jetzt die Datei strukt.html des Repositories, das Sie gerade bearbeiten. Ergänzen Sie Elemente, die Sie unter 4. notiert haben und die noch nicht eingetragen sind in der unter 2. beschriebenen Form.
-
-Abschließender Hinweis zu 4. und 5.:
-
-Auch wenn das nirgends explizit steht sollen Sie Änderungen in das Repository pushen, aus dem sie die Datei strukt.html gepullt haben.
-Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später während der Projektbearbeitung) einen merge durchführen müssen. Wenn Sie sich noch nicht angesehen haben, wie das geht, dann tun Sie es jetzt.
-
-Viele Grüße,
-Markus Alpers
-
-=== Feedback Ende ===
+Wertung 2: Projektbeschreibung: gesamt: 4 / 10
+- Pro Interaktionsmöglichkeit: 0 
+- Knappe aber klare Beschreibung: 4
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
+(Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
